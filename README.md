@@ -45,8 +45,9 @@
 
 > App 内的"使用说明"页与本节内容一致，可对照操作。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3p-NkbMCaBs" title="CleanIconPack Demo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 操作演示视频
 
+[▶ 观看CleanIconPack的操作演示 on YouTube](https://www.youtube.com/watch?v=3p-NkbMCaBs)
 
 
 ---
