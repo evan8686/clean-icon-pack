@@ -1,7 +1,7 @@
 # CleanIconPack
 <img width="300" height="300" alt="main_icon" src="https://github.com/user-attachments/assets/881b3325-883f-4319-ad45-3a4c2335990b" />
 
-> 图标由你亲手挑选。Your home screen, your choice.
+> 图标由你亲手挑选替换。Your home screen, your choice.
 
 一个面向中国大陆 Android 用户的**图标替换包**。
 它不修改任何 App，也不接管你的桌面，只是提供一批"干净"的图标资源，让你在系统桌面里**逐个**替换掉那些被加了广告的牛皮癣图标。
