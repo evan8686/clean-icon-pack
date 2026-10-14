@@ -1,4 +1,4 @@
-# CleanIconPack
+# CleanIconPack 轻净图标
 <img width="300" height="300" alt="main_icon" src="https://github.com/user-attachments/assets/881b3325-883f-4319-ad45-3a4c2335990b" />
 
 > 图标由你亲手挑选替换。Your home screen, your choice.
