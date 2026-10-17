@@ -1,7 +1,7 @@
 # CleanIconPack 轻净图标
 <img width="300" height="300" alt="main_icon" src="https://github.com/user-attachments/assets/881b3325-883f-4319-ad45-3a4c2335990b" />
 
-> 图标由你亲手挑选替换。Your home screen, your choice.
+> 轻净图标，随你选换。Your home screen, your choice.
 
 一个专门解决安卓应用图标「牛皮癣」问题的**手动替换图标包**。
 针对淘宝、京东等 App 图标上的促销贴片和营销角标，提供干净的原始图标，让你只替换需要修改的应用，同时保留系统原有的图标主题与桌面风格。
